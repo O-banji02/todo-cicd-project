@@ -98,4 +98,4 @@ Pull requests are welcome! Please feel free to submit a Pull Request.
 This project is open source and available under the MIT License.
 
 ## 🔥 Status
-CI/CD Pipeline Active!
+CI/CD Pipeline Active!!
