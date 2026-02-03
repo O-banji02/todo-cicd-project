@@ -85,9 +85,15 @@ The pipeline automatically:
 3. Pushes image to Docker Hub
 4. Deploys to Render
 
+
 ## 📦 Deployment
 
-The app is deployed at: https://todo-cicd-project.onrender.com
+🚀 **Live Demo**: https://todo-cicd-project.onrender.com
+
+Try it out:
+- Home: https://todo-cicd-project.onrender.com/
+- Health Check: https://todo-cicd-project.onrender.com/health
+- Get Todos: https://todo-cicd-project.onrender.com/todos
 
 ## 🤝 Contributing
 
