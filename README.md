@@ -1,6 +1,6 @@
 # 🚀 Todo App with CI/CD Pipeline
 
-![CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci-cd.yml/badge.svg)
+[![CI/CD Pipeline](https://github.com/O-banji02/todo-cicd-project/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/O-banji02/todo-cicd-project/actions/workflows/ci-cd.yml)
 
 A simple Todo REST API built with Flask, containerized with Docker, and automatically deployed using GitHub Actions CI/CD pipeline.
 
