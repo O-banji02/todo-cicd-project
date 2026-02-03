@@ -83,11 +83,11 @@ The pipeline automatically:
 1. Runs tests on every push
 2. Builds Docker image
 3. Pushes image to Docker Hub
-4. Deploys to AWS EC2
+4. Deploys to Render
 
 ## 📦 Deployment
 
-The app is deployed at: `http://(coming soon)`
+The app is deployed at: https://todo-cicd-project.onrender.com
 
 ## 🤝 Contributing
 
